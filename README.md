@@ -18,6 +18,7 @@ A compilation of classic articles in the field of database fuzzing.
 ## 2024
 
 - [[SIGMOD '24](https://dl.acm.org/doi/10.1145/3626722)] Correlation joins over time series data streams utilizing complementary dimension reduction and transformation.
+- 
 - [[OSDI '24](https://www.usenix.org/conference/osdi24/presentation/jiang)] Detecting logic bugs in database engines via equivalent expression transformation.
 - [[VLDB Endowment'24](https://dl.acm.org/doi/10.14778/3659437.3659445)] Detecting metadata-related logic bugs in database systems via raw database construction.
 - [[VLDB Endowment'24](https://dl.acm.org/doi/10.14778/3712221.3712247)] Semantic conformance testing of relational DBMS.
@@ -31,6 +32,7 @@ A compilation of classic articles in the field of database fuzzing.
 ## 2023
 
 - [[arXiv23](http://arxiv.org/abs/2311.06728)] A Comprehensive Survey on Database Management System Fuzzing: Techniques, Taxonomy and Experimental Comparison.
+
 - [[SIGMOD '23](https://dl.acm.org/doi/10.1145/3588909)] Detecting Logic Bugs of Join Optimizations in DBMS [__`TQS`__]
 - [[SEC '23](https://www.usenix.org/conference/usenixsecurity23/presentation/jiang-zu-ming)] DynSQL: Stateful Fuzzing for Database Management Systems with Complex and Valid {SQL} Query Generation [__`DynSQL`__]
 - [[ICDE '23](https://ieeexplore.ieee.org/document/10184875)] Sequence-Oriented DBMS Fuzzing.
@@ -46,6 +48,7 @@ A compilation of classic articles in the field of database fuzzing.
 ## 2022
 
 - [[ASE '22](https://dl.acm.org/doi/10.1145/3551349.3560431)] Griffin : Grammar-Free DBMS Fuzzing [__`Griffin`__]
+
 - [[ASE '22](https://dl.acm.org/doi/10.1145/3551349.3556924)] Differentially Testing Database Transactions for Fun and Profit [__`DT2`__]
 - [[USENIX Security '22](https://www.usenix.org/conference/usenixsecurity22/presentation/liang)] Detecting logical bugs of DBMS with coverage-based guidance.
 - [[ISSTA '22](https://dl.acm.org/doi/10.1145/3533767.3534409)] Finding bugs in gremlin-based graph database systems via randomized differential testing.
@@ -58,6 +61,7 @@ A compilation of classic articles in the field of database fuzzing.
 ## 2020
 
 - [[OSDI'20](https://arxiv.org/abs/2001.04174)] Testing database engines via pivoted query synthesis [__`PQS`__]
+
 - [[CCS '20](https://dl.acm.org/doi/10.1145/3372297.3417260)] SQUIRREL: Testing Database Management Systems with Language Validity and Coverage Feedback [__`SQUIRREL`__]
 - [[WOOT '20](https://www.usenix.org/conference/woot20/presentation/fioraldi)] {AFL++} : combining incremental steps of fuzzing research [__`afl++`__]
 
