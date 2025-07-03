@@ -2,6 +2,8 @@
 A compilation of classic articles in the field of database fuzzing.
 
 ### keywords
+
+| | | | |
 | ---------------------------------- | -------------------------------- | ------------------------------- | ----------------------- |
 |**`DBsec`**:Database security  |
 |**`logic`**:logic bugs  |  **`crash`**:crash bugs  |  **`perf.`**:performance bugs  |
