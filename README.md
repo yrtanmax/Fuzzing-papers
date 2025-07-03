@@ -5,8 +5,8 @@ A compilation of classic articles in the field of database fuzzing.
 
 **`DBsec`** : Database security     
 **`logic`** : logic bugs &emsp; | &emsp; **`crash`** : crash bugs &emsp; | &emsp; **`perf.`** : performance bugs     
-**`Diff`** : Differencial oracle &emsp; | &emsp; **`Con-sol`** : Constraint-solving oracle &emsp; | &emsp; **`Meta`** : Metamorphic oracle
-**`RDB`** : Relational Database &emsp; | &emsp; **`GDB`** : Gragh Databases &emsp; | &emsp; **`TSDB`** : Time Series Database &emsp; | &emsp; **`VDB`** : Vector Database
+**`Diff`** : Differencial oracle &emsp; | &emsp; **`Con-sol`** : Constraint-solving oracle &emsp; | &emsp; **`Meta`** : Metamorphic oracle  
+**`RDB`**: Relational Database &emsp; | &emsp; **`GDB`**: Gragh Databases &emsp; | &emsp; **`TSDB`**: Time Series Database &emsp; | &emsp; **`VDB`**: Vector Database  
 **`cov.`** : Coverage-guided testing &emsp; | &emsp; **`optim.`** : join optimization &emsp; | &emsp; **`trans.`** : transaction bugs
  
 ## 2025
