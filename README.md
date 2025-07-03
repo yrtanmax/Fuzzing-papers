@@ -5,6 +5,7 @@ A compilation of classic articles in the field of database fuzzing.
 ## 2025
 
 - [[SIGMOD '25](https://dl.acm.org/doi/10.1145/3698829)] Understanding and reusing test suites across database systems.
+
 - [[SIGMOD '25](https://dl.acm.org/doi/10.1145/3698810)] Finding logic bugs in spatial database engines via affine equivalent inputs.
 - [[SIGMOD '25](https://dl.acm.org/doi/10.1145/3709674)] Constant optimization driven database system testing [__`CODD`__]
 - [[VLDB '25](https://www.vldb.org/pvldb/vol18/p1879-li.pdf)] Fucci: Database Transaction Fuzzing via Random Conflict Construction and Multilevel Constraint Solving [__`Fucci`__]
