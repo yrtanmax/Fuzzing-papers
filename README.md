@@ -2,12 +2,20 @@
 A compilation of classic articles in the field of database fuzzing.
 
 ### keywords
+| ---------------------------------- | -------------------------------- | ------------------------------- | ----------------------- |
+|**`DBsec`**:Database security  |
+|**`logic`**:logic bugs  |  **`crash`**:crash bugs  |  **`perf.`**:performance bugs  |
+|**`Diff`**:Differencial oracle  |  **`Con-sol`**:Constraint-solving oracle  |  **`Meta`**:Metamorphic oracle  |
+|**`RDB`**:Relational Database  |  **`GDB`**:Gragh Databases  |  **`TSDB`**:Time Series Database  |  **`VDB`**:Vector Database  |
+|**`cov.`**:Coverage-guided testing  |  **`optim.`**:join optimization  |  **`trans.`**:transaction bugs  |
 
-**`DBsec`**:Database security
-**`logic`**:logic bugs  |  **`crash`**:crash bugs  |  **`perf.`**:performance bugs
-**`Diff`**:Differencial oracle  |  **`Con-sol`**:Constraint-solving oracle  |  **`Meta`**:Metamorphic oracle
-**`RDB`**:Relational Database  |  **`GDB`**:Gragh Databases  |  **`TSDB`**:Time Series Database  |  **`VDB`**:Vector Database
-**`cov.`**:Coverage-guided testing  |  **`optim.`**:join optimization  |  **`trans.`**:transaction bugs
+* 表格
+| Generation | Bugs   | Oracle     | DBMS       | Innovation |
+| ---------- | ------ | ---------- | ---------- | ---------- |
+|**`DBsec`**:Database security  |**`logic`**:logic bugs|**`Diff`**:Differencial oracle|**`RDB`**:Relational Database|**`cov.`**:Coverage-guided testing|
+|  |  **`crash`**:crash bugs  |  **`Con-sol`**:Constraint-solving oracle  |**`GDB`**:Gragh Databases|**`optim.`**:join optimization|
+|  |  **`perf.`**:performance bugs  |  **`Meta`**:Metamorphic oracle  |**`TSDB`**:Time Series Database|**`trans.`**:transaction bugs|
+|  |    |    |  **`VDB`**:Vector Database  ||
 
 ## 2025
 
