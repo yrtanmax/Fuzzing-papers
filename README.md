@@ -12,9 +12,9 @@ A compilation of classic articles in the field of database fuzzing.
 | **`cov.`**:Coverage-guided testing | **`optim.`**:join optimization          | **`trans.`**:transaction bugs    |
 
 
-**`DBsec`**:Database security
+**`DBsec`** : Database security
 
-**`logic`**:logic bugs             | **`crash`**:crash bugs                  | **`perf.`**:performance bugs
+**`logic`**: logic bugs             | **`crash`**:crash bugs                  | **`perf.`**:performance bugs
 
 **`Diff`**:Differencial oracle     | **`Con-sol`**:Constraint-solving oracle | **`Meta`**:Metamorphic oracle
 
