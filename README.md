@@ -5,7 +5,7 @@ A compilation of classic articles in the field of database fuzzing.
 ## 2025
 
 - [[arXiv25](http://arxiv.org/abs/2501.01236)] Enhanced Differential Testing in Emerging Database Systems [__`SQLxDiff`__]
-- [VLDB '25] Detailed Response to Reviewers [__`Fucci`__]
+- [[VLDB '25](https://www.vldb.org/pvldb/vol18/p1879-li.pdf)] Fucci: Database Transaction Fuzzing via Random Conflict Construction and Multilevel Constraint Solving [__`Fucci`__]
 - [[TDSC '25](https://ieeexplore.ieee.org/document/10812868)] Improving multitasking DBMS fuzzing with more accurate coverage and testcase trimming.
 - [[SIGMOD '25](https://dl.acm.org/doi/10.1145/3709674)] Constant optimization driven database system testing [__`CODD`__]
 - [[EuroSys '25](https://dl.acm.org/doi/10.1145/3689031.3696064)] Understanding and detecting SQL function bugs: using simple boundary arguments to trigger hundreds of DBMS bugs.
