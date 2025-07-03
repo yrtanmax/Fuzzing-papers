@@ -10,6 +10,7 @@ A compilation of classic articles in the field of database fuzzing.
 |**`cov.`**:Coverage-guided testing  |  **`optim.`**:join optimization  |  **`trans.`**:transaction bugs  |
 
 * 表格
+
 | Generation | Bugs   | Oracle     | DBMS       | Innovation |
 | ---------- | ------ | ---------- | ---------- | ---------- |
 |**`DBsec`**:Database security  |**`logic`**:logic bugs|**`Diff`**:Differencial oracle|**`RDB`**:Relational Database|**`cov.`**:Coverage-guided testing|
