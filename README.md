@@ -4,27 +4,28 @@ A compilation of classic articles in the field of database fuzzing.
 
 ## 2025
 
-- [[arXiv25](http://arxiv.org/abs/2501.01236)] Enhanced Differential Testing in Emerging Database Systems [__`SQLxDiff`__]
+- [[SIGMOD '25](https://dl.acm.org/doi/10.1145/3698829)] Understanding and reusing test suites across database systems.
+- [[SIGMOD '25](https://dl.acm.org/doi/10.1145/3698810)] Finding logic bugs in spatial database engines via affine equivalent inputs.
+- [[SIGMOD '25](https://dl.acm.org/doi/10.1145/3709674)] Constant optimization driven database system testing [__`CODD`__]
 - [[VLDB '25](https://www.vldb.org/pvldb/vol18/p1879-li.pdf)] Fucci: Database Transaction Fuzzing via Random Conflict Construction and Multilevel Constraint Solving [__`Fucci`__]
 - [[TDSC '25](https://ieeexplore.ieee.org/document/10812868)] Improving multitasking DBMS fuzzing with more accurate coverage and testcase trimming.
-- [[SIGMOD '25](https://dl.acm.org/doi/10.1145/3709674)] Constant optimization driven database system testing [__`CODD`__]
 - [[EuroSys '25](https://dl.acm.org/doi/10.1145/3689031.3696064)] Understanding and detecting SQL function bugs: using simple boundary arguments to trigger hundreds of DBMS bugs.
 - [[arXiv25](http://arxiv.org/abs/2505.02012)] Testing database systems with large language model synthesized fragments.
 - [[ISSTA '25](https://dl.acm.org/doi/10.1145/3728908)] QTRAN: extending metamorphic-oracle based logical bug detection techniques for multiple-DBMS dialect support [__`Qtran`__]
+- [[arXiv25](http://arxiv.org/abs/2501.01236)] Enhanced Differential Testing in Emerging Database Systems [__`SQLxDiff`__]
 
 ## 2024
 
+- [[SIGMOD '24](https://dl.acm.org/doi/10.1145/3626722)] Correlation joins over time series data streams utilizing complementary dimension reduction and transformation.
 - [[OSDI '24](https://www.usenix.org/conference/osdi24/presentation/jiang)] Detecting logic bugs in database engines via equivalent expression transformation.
 - [[VLDB Endowment'24](https://dl.acm.org/doi/10.14778/3659437.3659445)] Detecting metadata-related logic bugs in database systems via raw database construction.
-- [[ICSE '24](https://dl.acm.org/doi/10.1145/3597503.3639207)] Understanding transaction bugs in database systems.
-- [[ISSTA '24](https://dl.acm.org/doi/10.1145/3650212.3680392)] Testing gremlin-based graph database systems via query disassembling.
-- [[ICST '24](https://ieeexplore.ieee.org/document/10638597)] Differential optimization testing of gremlin-based graph database systems.
-- [[ICSE '24](https://ieeexplore.ieee.org/abstract/document/10548201)] Detecting logic bugs in graph database management systems via injective and surjective graph query transformation.
-- [[Journal of Systems and Software ‘24(CCF B)](https://www.sciencedirect.com/science/article/pii/S0164121223002674)] Database management system performance comparisons: a systematic literature review.
-- [[SIGMOD '25](https://dl.acm.org/doi/10.1145/3698829)] Understanding and reusing test suites across database systems.
-- [[ISSTA '24](https://doi.org/10.1145/3650212.3680317)] SQLess: dialect-agnostic SQL query simplification [__`SQLess`__]
 - [[VLDB Endowment'24](https://dl.acm.org/doi/10.14778/3712221.3712247)] Semantic conformance testing of relational DBMS.
-- [[SIGMOD '25](https://dl.acm.org/doi/10.1145/3698810)] Finding logic bugs in spatial database engines via affine equivalent inputs.
+- [[ICSE '24](https://dl.acm.org/doi/10.1145/3597503.3639207)] Understanding transaction bugs in database systems.
+- [[ICSE '24](https://ieeexplore.ieee.org/abstract/document/10548201)] Detecting logic bugs in graph database management systems via injective and surjective graph query transformation.
+- [[ISSTA '24](https://dl.acm.org/doi/10.1145/3650212.3680392)] Testing gremlin-based graph database systems via query disassembling.
+- [[ISSTA '24](https://doi.org/10.1145/3650212.3680317)] SQLess: dialect-agnostic SQL query simplification [__`SQLess`__]
+- [[ICST '24](https://ieeexplore.ieee.org/document/10638597)] Differential optimization testing of gremlin-based graph database systems.
+- [[Journal of Systems and Software ‘24(CCF B)](https://www.sciencedirect.com/science/article/pii/S0164121223002674)] Database management system performance comparisons: a systematic literature review.
 
 ## 2023
 
@@ -34,10 +35,9 @@ A compilation of classic articles in the field of database fuzzing.
 - [[ICDE '23](https://ieeexplore.ieee.org/document/10184875)] Sequence-Oriented DBMS Fuzzing.
 - [[ICSE '23](https://dl.acm.org/doi/10.1109/ICSE48619.2023.00175)] Testing database systems via differential query execution [__`DQE`__]
 - [[ICSE '23](https://ieeexplore.ieee.org/document/10172773)] Detecting isolation bugs via transaction oracle construction [__`GDBMeter`__]
+- [[ICSE '23](https://ieeexplore.ieee.org/document/10172878)] Coverage guided fault injection for cloud systems.
 - [[ICSE-Companion '23](https://ieeexplore.ieee.org/document/10172822)] Randomized differential testing of RDF stores.
 - [[EuroSys '23](https://dl.acm.org/doi/10.1145/3552326.3587442)] Model checking guided testing for distributed systems.
-- [[ICSE '23](https://ieeexplore.ieee.org/document/10172878)] Coverage guided fault injection for cloud systems.
-- [[SIGMOD '24](https://dl.acm.org/doi/10.1145/3626722)] Correlation joins over time series data streams utilizing complementary dimension reduction and transformation.
 - [[USENIX ATC '23](https://www.usenix.org/conference/atc23/presentation/hao)] Pinolo: detecting logical bugs in database management systems with approximate query synthesis [__`Pinolo`__]
 - [[OSDI '23](https://www.usenix.org/conference/osdi23/presentation/jiang)] Detecting transactional bugs in database engines via {graph-based} oracle construction.
 - [[ISSTA 2023](https://dl.acm.org/doi/10.1145/3597926.3598044)] Testing graph database engines via query partitioning.
