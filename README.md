@@ -1,6 +1,13 @@
 # Fuzzing-papers
 A compilation of classic articles in the field of database fuzzing.
 
+### keywords
+
+**`DBsec`**:Database security
+**`logic`**:logic bugs  |  **`crash`**:crash bugs  |  **`perf.`**:performance bugs
+**`Diff`**:Differencial oracle  |  **`Con-sol`**:Constraint-solving oracle  |  **`Meta`**:Metamorphic oracle
+**`RDB`**:Relational Database  |  **`GDB`**:Gragh Databases  |  **`TSDB`**:Time Series Database  |  **`VDB`**:Vector Database
+**`cov.`**:Coverage-guided testing  |  **`optim.`**:join optimization  |  **`trans.`**:transaction bugs
 
 ## 2025
 
