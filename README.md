@@ -1,4 +1,4 @@
-# Fuzzing-papers
+# Fuzzing papers (DBMS)
 A compilation of classic articles in the field of database management system (DBMS) fuzzing.
 
 ### keywords
