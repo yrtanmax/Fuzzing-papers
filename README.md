@@ -18,7 +18,7 @@ A compilation of classic articles in the field of database fuzzing.
 ## 2024
 
 - [[SIGMOD '24](https://dl.acm.org/doi/10.1145/3626722)] Correlation joins over time series data streams utilizing complementary dimension reduction and transformation.
-- 
+
 - [[OSDI '24](https://www.usenix.org/conference/osdi24/presentation/jiang)] Detecting logic bugs in database engines via equivalent expression transformation.
 - [[VLDB Endowment'24](https://dl.acm.org/doi/10.14778/3659437.3659445)] Detecting metadata-related logic bugs in database systems via raw database construction.
 - [[VLDB Endowment'24](https://dl.acm.org/doi/10.14778/3712221.3712247)] Semantic conformance testing of relational DBMS.
