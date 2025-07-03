@@ -3,24 +3,15 @@ A compilation of classic articles in the field of database fuzzing.
 
 ### keywords
 
-| | | | |
-| ---------------------------------- | --------------------------------------- | -------------------------------- | --------------------------- |
-| **`DBsec`**:Database security      |
-| **`logic`**:logic bugs             | **`crash`**:crash bugs                  | **`perf.`**:performance bugs     |
-| **`Diff`**:Differencial oracle     | **`Con-sol`**:Constraint-solving oracle | **`Meta`**:Metamorphic oracle    |
-| **`RDB`**:Relational Database      | **`GDB`**:Gragh Databases               | **`TSDB`**:Time Series Database  |  **`VDB`**:Vector Database  |
-| **`cov.`**:Coverage-guided testing | **`optim.`**:join optimization          | **`trans.`**:transaction bugs    |
-
-
 **`DBsec`** : Database security
 
-**`logic`**: logic bugs             | **`crash`**:crash bugs                  | **`perf.`**:performance bugs
+**`logic`** : logic bugs &emsp; | &emsp; **`crash`** : crash bugs &emsp; | &emsp; **`perf.`** : performance bugs
 
-**`Diff`**:Differencial oracle     | **`Con-sol`**:Constraint-solving oracle | **`Meta`**:Metamorphic oracle
+**`Diff`** : Differencial oracle &emsp; | &emsp; **`Con-sol`** : Constraint-solving oracle &emsp; | &emsp; **`Meta`** : Metamorphic oracle
 
-**`RDB`**:Relational Database      | **`GDB`**:Gragh Databases               | **`TSDB`**:Time Series Database  |  **`VDB`**:Vector Database
+**`RDB`** : Relational Database &emsp; | &emsp; **`GDB`** : Gragh Databases &emsp; | &emsp; **`TSDB`** : Time Series Database &emsp; | &emsp; **`VDB`** : Vector Database
 
-**`cov.`**:Coverage-guided testing | **`optim.`**:join optimization          | **`trans.`**:transaction bugs
+**`cov.`** : Coverage-guided testing &emsp; | &emsp; **`optim.`** : join optimization &emsp; | &emsp; **`trans.`** : transaction bugs
  
 ## 2025
 
