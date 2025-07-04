@@ -70,7 +70,9 @@ A compilation of classic articles in the field of database management system (DB
 
 - [[OSDI'20](https://arxiv.org/abs/2001.04174)] Testing database engines via pivoted query synthesis [__`PQS`__]
 
+- [[ESEC/FSE '20](https://dl.acm.org/doi/10.1145/3368089.3409710)] Detecting Optimization Bugs in Database Engines via Non-optimizing Reference Engine Construction [**`NoREC`**]
 - [[CCS '20](https://dl.acm.org/doi/10.1145/3372297.3417260)] SQUIRREL: Testing Database Management Systems with Language Validity and Coverage Feedback [__`SQUIRREL`__]
+- [[OOPSLA '20](https://dl.acm.org/doi/10.1145/3428279)] Finding Bugs in Database Systems via Query Partitioning.[**`TLP`**]
 - [[WOOT '20](https://www.usenix.org/conference/woot20/presentation/fioraldi)] {AFL++} : combining incremental steps of fuzzing research [__`afl++`__]
 
 ## 2019
@@ -87,4 +89,4 @@ A compilation of classic articles in the field of database management system (DB
 
 ## 1998
 
-- [[VLDB 1998](https://www.vldb.org/conf/1998/p618.pdf)] Massive Stochastic Testing of SQL.
+- [[VLDB 1998](https://www.vldb.org/conf/1998/p618.pdf)] Massive Stochastic Testing of SQL. [**`RAGS`**]
