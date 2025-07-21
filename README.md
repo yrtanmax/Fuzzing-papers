@@ -20,6 +20,7 @@ A compilation of classic articles in the field of database management system (DB
 - [[TDSC '25](https://ieeexplore.ieee.org/document/10812868)] Improving multitasking DBMS fuzzing with more accurate coverage and testcase trimming.
 - [[EuroSys '25](https://dl.acm.org/doi/10.1145/3689031.3696064)] Understanding and detecting SQL function bugs: using simple boundary arguments to trigger hundreds of DBMS bugs.
 - [[arXiv25](http://arxiv.org/abs/2505.02012)] Testing database systems with large language model synthesized fragments.
+- [[ICSE '25](https://ieeexplore.ieee.org/document/11029960)] PUPPY: finding performance degradation bugs in DBMSs via limited-optimization plan construction. [**`PUPPY`**] [**`perf.`**]
 - [[ISSTA '25](https://dl.acm.org/doi/10.1145/3728908)] QTRAN: extending metamorphic-oracle based logical bug detection techniques for multiple-DBMS dialect support. [__`Qtran`__]
 - [[arXiv25](http://arxiv.org/abs/2501.01236)] Enhanced Differential Testing in Emerging Database Systems. [__`SQLxDiff`__]
 
@@ -31,6 +32,7 @@ A compilation of classic articles in the field of database management system (DB
 - [[VLDB Endowment'24](https://dl.acm.org/doi/10.14778/3659437.3659445)] Detecting metadata-related logic bugs in database systems via raw database construction.
 - [[VLDB Endowment'24](https://dl.acm.org/doi/10.14778/3712221.3712247)] Semantic conformance testing of relational DBMS.
 - [[ICSE '24](https://dl.acm.org/doi/10.1145/3597503.3639207)] Understanding transaction bugs in database systems.
+- [[ICSE '24](https://dl.acm.org/doi/10.1145/3597503.3639076)] CERT: finding performance issues in database systems through the lens of cardinality estimation. [**`CERT`**]
 - [[ICSE '24](https://ieeexplore.ieee.org/abstract/document/10548201)] Detecting logic bugs in graph database management systems via injective and surjective graph query transformation.
 - [[ISSTA '24](https://dl.acm.org/doi/10.1145/3650212.3680392)] Testing gremlin-based graph database systems via query disassembling.
 - [[ISSTA '24](https://doi.org/10.1145/3650212.3680317)] SQLess: dialect-agnostic SQL query simplification. [__`SQLess`__]
@@ -43,6 +45,7 @@ A compilation of classic articles in the field of database management system (DB
 - [[arXiv23](http://arxiv.org/abs/2311.06728)] A Comprehensive Survey on Database Management System Fuzzing: Techniques, Taxonomy and Experimental Comparison.
 
 - [[SIGMOD '23](https://dl.acm.org/doi/10.1145/3588909)] Detecting Logic Bugs of Join Optimizations in DBMS. [__`TQS`__]
+- [[SIGMOD '23](https://dl.acm.org/doi/10.1145/3588926)] DBPA: a benchmark for transactional database performance anomalies. [**`DBPA`**]
 - [[SEC '23](https://www.usenix.org/conference/usenixsecurity23/presentation/jiang-zu-ming)] DynSQL: Stateful Fuzzing for Database Management Systems with Complex and Valid {SQL} Query Generation. [__`DynSQL`__]
 - [[ICDE '23](https://ieeexplore.ieee.org/document/10184875)] Sequence-Oriented DBMS Fuzzing.
 - [[ICSE '23](https://dl.acm.org/doi/10.1109/ICSE48619.2023.00175)] Testing database systems via differential query execution [__`DQE`__]
