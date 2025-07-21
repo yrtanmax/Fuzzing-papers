@@ -62,7 +62,7 @@ A compilation of classic articles in the field of database management system (DB
 - [[USENIX Security '22](https://www.usenix.org/conference/usenixsecurity22/presentation/liang)] Detecting logical bugs of DBMS with coverage-based guidance.
 - [[ISSTA '22](https://dl.acm.org/doi/10.1145/3533767.3534364)] Unicorn: detect runtime errors in time-series databases with hybrid input synthesis. [**Unicorn**]
 - [[ISSTA '22](https://dl.acm.org/doi/10.1145/3533767.3534409)] Finding bugs in gremlin-based graph database systems via randomized differential testing.
-- [[ICSE '22](https://ieeexplore.ieee.org/document/9793961)] Automatic detection of performance bugs in database systems using equivalent queries.
+- [[ICSE '22](https://ieeexplore.ieee.org/document/9793961)] Automatic detection of performance bugs in database systems using equivalent queries. [**AMOEBA**]
 
 ## 2021
 
