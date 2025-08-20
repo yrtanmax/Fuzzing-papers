@@ -19,17 +19,17 @@ A compilation of classic articles in the field of database management system (DB
 - [[VLDB '25](https://www.vldb.org/pvldb/vol18/p1879-li.pdf)] Fucci: Database Transaction Fuzzing via Random Conflict Construction and Multilevel Constraint Solving. [__`Fucci`__]
 - [[TDSC '25](https://ieeexplore.ieee.org/document/10812868)] Improving multitasking DBMS fuzzing with more accurate coverage and testcase trimming.
 - [[EuroSys '25](https://dl.acm.org/doi/10.1145/3689031.3696064)] Understanding and detecting SQL function bugs: using simple boundary arguments to trigger hundreds of DBMS bugs.
-- [[arXiv25](http://arxiv.org/abs/2505.02012)] Testing database systems with large language model synthesized fragments. [  `ShQveL`  ]
+- [[arXiv25](http://arxiv.org/abs/2505.02012)] Testing database systems with large language model synthesized fragments. [**`ShQveL`**]
 - [[ICSE '25](https://ieeexplore.ieee.org/document/11029960)] PUPPY: finding performance degradation bugs in DBMSs via limited-optimization plan construction. [**`PUPPY`**] [**`perf.`**]
 - [[ISSTA '25](https://dl.acm.org/doi/10.1145/3728908)] QTRAN: extending metamorphic-oracle based logical bug detection techniques for multiple-DBMS dialect support. [__`Qtran`__]
 - [[arXiv25](http://arxiv.org/abs/2501.01236)] Enhanced Differential Testing in Emerging Database Systems. [__`SQLxDiff`__]
-- [[arXiv25](https://arxiv.org/abs/2503.21424)] Scaling Automated Database System Testing. [  `SQLancer++`  ]
+- [[arXiv25](https://arxiv.org/abs/2503.21424)] Scaling Automated Database System Testing. [  **`SQLancer++`**  ]
 
 ## 2024
 
 - [[SIGMOD '24](https://dl.acm.org/doi/10.1145/3626722)] Correlation joins over time series data streams utilizing complementary dimension reduction and transformation.
 
-- [[OSDI '24](https://www.usenix.org/conference/osdi24/presentation/jiang)] Detecting logic bugs in database engines via equivalent expression transformation. [  `EET`  ]
+- [[OSDI '24](https://www.usenix.org/conference/osdi24/presentation/jiang)] Detecting logic bugs in database engines via equivalent expression transformation. [  **`EET`**  ]
 - [[VLDB Endowment'24](https://dl.acm.org/doi/10.14778/3659437.3659445)] Detecting metadata-related logic bugs in database systems via raw database construction.
 - [[VLDB Endowment'24](https://dl.acm.org/doi/10.14778/3712221.3712247)] Semantic conformance testing of relational DBMS.
 - [[ICSE '24](https://dl.acm.org/doi/10.1145/3597503.3639207)] Understanding transaction bugs in database systems.
