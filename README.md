@@ -40,12 +40,12 @@ A compilation of classic articles in the field of database management system (DB
 - [[ICST '24](https://ieeexplore.ieee.org/document/10638597)] Differential optimization testing of gremlin-based graph database systems.
 - [[Journal of Systems and Software ‘24(CCF B)](https://www.sciencedirect.com/science/article/pii/S0164121223002674)] Database management system performance comparisons: a systematic literature review.
 - [[USENIX ATC '24](https://www.usenix.org/conference/usenixsecurity24/presentation/yang-yupeng)] Towards Generic Database Management System Fuzzing.
-- [[COMPSAC '24](https://ieeexplore.ieee.org/abstract/document/10633453)] SQLPass: A Semantic Effective Fuzzing Method for DBMS. [  `**SQLPass**`  ]
-- [[ICSE '24](https://dl.acm.org/doi/abs/10.1145/3597503.3639210)] Sedar: Obtaining High-Quality Seeds for DBMS Fuzzing via Cross-DBMS SQL Transfer. [  `Sedar`  ]
+- [[COMPSAC '24](https://ieeexplore.ieee.org/abstract/document/10633453)] SQLPass: A Semantic Effective Fuzzing Method for DBMS. [  **`SQLPass`**  ]
+- [[ICSE '24](https://dl.acm.org/doi/abs/10.1145/3597503.3639210)] Sedar: Obtaining High-Quality Seeds for DBMS Fuzzing via Cross-DBMS SQL Transfer. [  **`Sedar`**  ]
 - [[FSE '24](https://dl.acm.org/doi/abs/10.1145/3663529.3663784)] When Fuzzing Meets LLMs: Challenges and Opportunities.
-- [[TDSC '24](https://ieeexplore.ieee.org/abstract/document/10812868)] Improving Multitasking DBMS Fuzzing With More Accurate Coverage and Testcase Trimming. [  `Tuzz`  ]
-- [[SIGMOD '24](https://dl.acm.org/doi/abs/10.1145/3654991)] Keep It Simple: Testing Databases via Differential Query Plans. [  `DQP`  ]
-- [[SIGMOD '24](https://dl.acm.org/doi/abs/10.1145/3698810)] Finding Logic Bugs in Spatial Database Engines via Affine Equivalent Inputs. [  `Spatter`  ]
+- [[TDSC '24](https://ieeexplore.ieee.org/abstract/document/10812868)] Improving Multitasking DBMS Fuzzing With More Accurate Coverage and Testcase Trimming. [  **`Tuzz`**  ]
+- [[SIGMOD '24](https://dl.acm.org/doi/abs/10.1145/3654991)] Keep It Simple: Testing Databases via Differential Query Plans. [  **`DQP`**  ]
+- [[SIGMOD '24](https://dl.acm.org/doi/abs/10.1145/3698810)] Finding Logic Bugs in Spatial Database Engines via Affine Equivalent Inputs. [  **`Spatter`**  ]
 
 ## 2023
 
@@ -63,10 +63,10 @@ A compilation of classic articles in the field of database management system (DB
 - [[USENIX ATC '23](https://www.usenix.org/conference/atc23/presentation/hao)] Pinolo: detecting logical bugs in database management systems with approximate query synthesis. [__`Pinolo`__]
 - [[OSDI '23](https://www.usenix.org/conference/osdi23/presentation/jiang)] Detecting transactional bugs in database engines via {graph-based} oracle construction.
 - [[ISSTA '23](https://dl.acm.org/doi/10.1145/3597926.3598044)] Testing graph database engines via query partitioning.
-- [[MDPI '23](https://www.mdpi.com/2076-3417/13/4/2519)] Squill: Testing DBMS with Correctness Feedback and Accurate Instantiation. [  `Squill`  ]
-- [[ICDE '23](https://ieeexplore.ieee.org/abstract/document/10184875)] Sequence-Oriented DBMS Fuzzing. [  `Lego`  ]
-- [[ICsE '23](https://ieeexplore.ieee.org/abstract/document/10172874)] Testing Database Engines via Query Plan Guidance. [  `QPG`  ]
-- [[/](https://github.com/pingcap/go-randgen)] a QA tool to random generate sql by bnf pattern. [  `Go-Randgen`  ]
+- [[MDPI '23](https://www.mdpi.com/2076-3417/13/4/2519)] Squill: Testing DBMS with Correctness Feedback and Accurate Instantiation. [  **`Squill`**  ]
+- [[ICDE '23](https://ieeexplore.ieee.org/abstract/document/10184875)] Sequence-Oriented DBMS Fuzzing. [  **`Lego`**  ]
+- [[ICsE '23](https://ieeexplore.ieee.org/abstract/document/10172874)] Testing Database Engines via Query Plan Guidance. [  **`QPG`**  ]
+- [[/](https://github.com/pingcap/go-randgen)] a QA tool to random generate sql by bnf pattern. [  **`Go-Randgen`**  ]
 
 ## 2022
 
@@ -81,7 +81,7 @@ A compilation of classic articles in the field of database management system (DB
 ## 2021
 
 - [[Bench '20](http://link.springer.com/10.1007/978-3-030-71058-3_5)] Artemis: An Automatic Test Suite Generator for Large Scale OLAP Database. [__`Artemis`__]
-- [[arXiv '21](https://arxiv.org/abs/2107.03660)] Duplicate-sensitivity Guided Transformation Synthesis for DBMS Correctness Bug Detection. [  `Eqsql`  ]
+- [[arXiv '21](https://arxiv.org/abs/2107.03660)] Duplicate-sensitivity Guided Transformation Synthesis for DBMS Correctness Bug Detection. [  **`Eqsql`**  ]
 
 ## 2020
 
@@ -90,8 +90,8 @@ A compilation of classic articles in the field of database management system (DB
 - [[ESEC/FSE '20](https://dl.acm.org/doi/10.1145/3368089.3409710)] Detecting Optimization Bugs in Database Engines via Non-optimizing Reference Engine Construction. [**`NoREC`**]
 - [[CCS '20](https://dl.acm.org/doi/10.1145/3372297.3417260)] SQUIRREL: Testing Database Management Systems with Language Validity and Coverage Feedback. [__`SQUIRREL`__]
 - [[OOPSLA '20](https://dl.acm.org/doi/10.1145/3428279)] Finding Bugs in Database Systems via Query Partitioning. [**`TLP`**]
-- [[WOOT '20](https://www.usenix.org/conference/woot20/presentation/fioraldi)] {AFL++} : combining incremental steps of fuzzing research. [__`afl++`__]
-- [[DBTest '20](https://dl.acm.org/doi/abs/10.1145/3395032.3395322)] Testing query execution engines with mutations. [  `MutaSQL`  ]
+- [[WOOT '20](https://www.usenix.org/conference/woot20/presentation/fioraldi)] {AFL++} : combining incremental steps of fuzzing research. [__**`afl++`**__]
+- [[DBTest '20](https://dl.acm.org/doi/abs/10.1145/3395032.3395322)] Testing query execution engines with mutations. [  **`MutaSQL`**  ]
 
 ## 2019
 
@@ -99,15 +99,15 @@ A compilation of classic articles in the field of database management system (DB
 
 ## 2015
 
-- [[/](https://github.com/anse1/sqlsmith)] A random SQL query generator. [  `SQLsmith`  ]
+- [[/](https://github.com/anse1/sqlsmith)] A random SQL query generator. [  **`SQLsmith`**  ]
 
 ## 2010
 
-- [[ASE ‘10](https://dl.acm.org/doi/10.1145/1858996.1859063)] Automated SQL query generation for systematic testing of database engines. [  `ADUSA`  ]
+- [[ASE ‘10](https://dl.acm.org/doi/10.1145/1858996.1859063)] Automated SQL query generation for systematic testing of database engines. [  **`ADUSA`**  ]
 
 ## 2007
 
-- [[VLDB '07](https://www.vldb.org/conf/2007/papers/industrial/p1243-bati.pdf)] A genetic approach for random testing of database systems. [  `GARan`  ]
+- [[VLDB '07](https://www.vldb.org/conf/2007/papers/industrial/p1243-bati.pdf)] A genetic approach for random testing of database systems. [  **`GARan`**  ]
 
 ## 1998
 
