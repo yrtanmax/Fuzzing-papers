@@ -34,13 +34,13 @@ A compilation of classic articles in the field of database management system (DB
 - [[VLDB Endowment'24](https://dl.acm.org/doi/10.14778/3712221.3712247)] Semantic conformance testing of relational DBMS.
 - [[ICSE '24](https://dl.acm.org/doi/10.1145/3597503.3639207)] Understanding transaction bugs in database systems.
 - [[ICSE '24](https://dl.acm.org/doi/10.1145/3597503.3639076)] CERT: finding performance issues in database systems through the lens of cardinality estimation. [**`CERT`**]
-- [[ICSE '24](https://ieeexplore.ieee.org/abstract/document/10548201)] Detecting logic bugs in graph database management systems via injective and surjective graph query transformation. [  `GQT` ]
+- [[ICSE '24](https://ieeexplore.ieee.org/abstract/document/10548201)] Detecting logic bugs in graph database management systems via injective and surjective graph query transformation. [  **`GQT`** ]
 - [[ISSTA '24](https://dl.acm.org/doi/10.1145/3650212.3680392)] Testing gremlin-based graph database systems via query disassembling.
 - [[ISSTA '24](https://doi.org/10.1145/3650212.3680317)] SQLess: dialect-agnostic SQL query simplification. [__`SQLess`__]
 - [[ICST '24](https://ieeexplore.ieee.org/document/10638597)] Differential optimization testing of gremlin-based graph database systems.
 - [[Journal of Systems and Software ‘24(CCF B)](https://www.sciencedirect.com/science/article/pii/S0164121223002674)] Database management system performance comparisons: a systematic literature review.
 - [[USENIX ATC '24](https://www.usenix.org/conference/usenixsecurity24/presentation/yang-yupeng)] Towards Generic Database Management System Fuzzing.
-- [[COMPSAC '24](https://ieeexplore.ieee.org/abstract/document/10633453)] SQLPass: A Semantic Effective Fuzzing Method for DBMS. [  `SQLPass`  ]
+- [[COMPSAC '24](https://ieeexplore.ieee.org/abstract/document/10633453)] SQLPass: A Semantic Effective Fuzzing Method for DBMS. [  `**SQLPass**`  ]
 - [[ICSE '24](https://dl.acm.org/doi/abs/10.1145/3597503.3639210)] Sedar: Obtaining High-Quality Seeds for DBMS Fuzzing via Cross-DBMS SQL Transfer. [  `Sedar`  ]
 - [[FSE '24](https://dl.acm.org/doi/abs/10.1145/3663529.3663784)] When Fuzzing Meets LLMs: Challenges and Opportunities.
 - [[TDSC '24](https://ieeexplore.ieee.org/abstract/document/10812868)] Improving Multitasking DBMS Fuzzing With More Accurate Coverage and Testcase Trimming. [  `Tuzz`  ]
