@@ -46,7 +46,7 @@ A compilation of classic articles in the field of database management system (DB
 - [[TDSC '24](https://ieeexplore.ieee.org/abstract/document/10812868)] Improving Multitasking DBMS Fuzzing With More Accurate Coverage and Testcase Trimming. [  **`Tuzz`**  ]
 - [[SIGMOD '24](https://dl.acm.org/doi/abs/10.1145/3654991)] Keep It Simple: Testing Databases via Differential Query Plans. [  **`DQP`**  ]
 - [[SIGMOD '24](https://dl.acm.org/doi/abs/10.1145/3698810)] Finding Logic Bugs in Spatial Database Engines via Affine Equivalent Inputs. [  **`Spatter`**  ]
-- [[ATC '24](https://www.usenix.org/conference/atc24/presentation/liang)] WingFuzz: Implementing Continuous Fuzzing for DBMSs. [__**WingFuzz**__]
+- [[ATC '24](https://www.usenix.org/conference/atc24/presentation/liang)] WingFuzz: Implementing Continuous Fuzzing for DBMSs. [**`WingFuzz`**]
 
 ## 2023
 
