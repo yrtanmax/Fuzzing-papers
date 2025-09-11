@@ -47,6 +47,8 @@ A compilation of classic articles in the field of database management system (DB
 - [[SIGMOD '24](https://dl.acm.org/doi/abs/10.1145/3654991)] Keep It Simple: Testing Databases via Differential Query Plans. [  **`DQP`**  ]
 - [[SIGMOD '24](https://dl.acm.org/doi/abs/10.1145/3698810)] Finding Logic Bugs in Spatial Database Engines via Affine Equivalent Inputs. [  **`Spatter`**  ]
 - [[ATC '24](https://www.usenix.org/conference/atc24/presentation/liang)] WingFuzz: Implementing Continuous Fuzzing for DBMSs. [**`WingFuzz`**]
+- [[ICSE '24](https://dl.acm.org/doi/abs/10.1145/3597503.3639207)] Understanding Transaction Bugs in Database Systems.
+- [[ICSE '24](https://dl.acm.org/doi/abs/10.1145/3597503.3639200)] Testing Graph Database Systems via Equivalent Query Rewriting. 
 
 ## 2023
 
@@ -66,8 +68,9 @@ A compilation of classic articles in the field of database management system (DB
 - [[ISSTA '23](https://dl.acm.org/doi/10.1145/3597926.3598044)] Testing graph database engines via query partitioning.
 - [[MDPI '23](https://www.mdpi.com/2076-3417/13/4/2519)] Squill: Testing DBMS with Correctness Feedback and Accurate Instantiation. [  **`Squill`**  ]
 - [[ICDE '23](https://ieeexplore.ieee.org/abstract/document/10184875)] Sequence-Oriented DBMS Fuzzing. [  **`Lego`**  ]
-- [[ICsE '23](https://ieeexplore.ieee.org/abstract/document/10172874)] Testing Database Engines via Query Plan Guidance. [  **`QPG`**  ]
+- [[ICSE '23](https://ieeexplore.ieee.org/abstract/document/10172874)] Testing Database Engines via Query Plan Guidance. [  **`QPG`**  ]
 - [[/](https://github.com/pingcap/go-randgen)] a QA tool to random generate sql by bnf pattern. [  **`Go-Randgen`**  ]
+- [[ISSTA '23](https://dl.acm.org/doi/abs/10.1145/3597926.3598046)] GDsmith: Detecting Bugs in Cypher Graph Database Engines. [  **`GDsmith`**  ]
 
 ## 2022
 
