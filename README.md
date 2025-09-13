@@ -13,7 +13,6 @@ A compilation of classic articles in the field of database management system (DB
 ## 2025
 ### SIGMOD
 - [Understanding and reusing test suites across database systems.](https://dl.acm.org/doi/10.1145/3698829)
-
 - [Finding logic bugs in spatial database engines via affine equivalent inputs.](https://dl.acm.org/doi/10.1145/3698810)
 - [Constant optimization driven database system testing.](https://dl.acm.org/doi/10.1145/3709674) [__`CODD`__]
 ### VLDB
@@ -26,36 +25,42 @@ A compilation of classic articles in the field of database management system (DB
 - [PUPPY: finding performance degradation bugs in DBMSs via limited-optimization plan construction.](https://ieeexplore.ieee.org/document/11029960) [**`PUPPY`**] [**`perf.`**]
 - [Coni: Detecting Database Connector Bugs via State-Aware Test Case Generation.](https://dl.acm.org/doi/10.1109/ICSE55347.2025.00003) [**`Coni`**]
 ### ISSTA
-- [ISSTA '25](https://dl.acm.org/doi/10.1145/3728908)QTRAN: extending metamorphic-oracle based logical bug detection techniques for multiple-DBMS dialect support. [__`Qtran`__]
+- [QTRAN: extending metamorphic-oracle based logical bug detection techniques for multiple-DBMS dialect support.](https://dl.acm.org/doi/10.1145/3728908) [__`Qtran`__]
 ### arXiv25
 - [Enhanced Differential Testing in Emerging Database Systems.](http://arxiv.org/abs/2501.01236) [__`SQLxDiff`__]
 - [Scaling Automated Database System Testing.](https://arxiv.org/abs/2503.21424) [  **`SQLancer++`**  ]
 - [Testing database systems with large language model synthesized fragments.](http://arxiv.org/abs/2505.02012) [**`ShQveL`**]
 
 ## 2024
-
+### SIGMOD
 - [SIGMOD '24](https://dl.acm.org/doi/10.1145/3626722)Correlation joins over time series data streams utilizing complementary dimension reduction and transformation.
-
-- [OSDI '24](https://www.usenix.org/conference/osdi24/presentation/jiang)Detecting logic bugs in database engines via equivalent expression transformation. [  **`EET`**  ]
+- [SIGMOD '24](https://dl.acm.org/doi/abs/10.1145/3654991)Keep It Simple: Testing Databases via Differential Query Plans. [  **`DQP`**  ]
+- [SIGMOD '24](https://dl.acm.org/doi/abs/10.1145/3698810)Finding Logic Bugs in Spatial Database Engines via Affine Equivalent Inputs. [  **`Spatter`**  ]
+### VLDB
 - [VLDB Endowment'24](https://dl.acm.org/doi/10.14778/3659437.3659445)Detecting metadata-related logic bugs in database systems via raw database construction.
 - [VLDB Endowment'24](https://dl.acm.org/doi/10.14778/3712221.3712247)Semantic conformance testing of relational DBMS.
+### ICSE
 - [ICSE '24](https://dl.acm.org/doi/10.1145/3597503.3639207)Understanding transaction bugs in database systems.
 - [ICSE '24](https://dl.acm.org/doi/10.1145/3597503.3639076)CERT: finding performance issues in database systems through the lens of cardinality estimation. [**`CERT`**]
 - [ICSE '24](https://ieeexplore.ieee.org/abstract/document/10548201)Detecting logic bugs in graph database management systems via injective and surjective graph query transformation. [  **`GQT`** ]
+- [ICSE '24](https://dl.acm.org/doi/abs/10.1145/3597503.3639207)Understanding Transaction Bugs in Database Systems.
+- [ICSE '24](https://dl.acm.org/doi/abs/10.1145/3597503.3639200)Testing Graph Database Systems via Equivalent Query Rewriting.
+- [ICSE '24](https://dl.acm.org/doi/abs/10.1145/3597503.3639210)Sedar: Obtaining High-Quality Seeds for DBMS Fuzzing via Cross-DBMS SQL Transfer. [  **`Sedar`**  ]
+### ISSTA
 - [ISSTA '24](https://dl.acm.org/doi/10.1145/3650212.3680392)Testing gremlin-based graph database systems via query disassembling.
 - [ISSTA '24](https://doi.org/10.1145/3650212.3680317)SQLess: dialect-agnostic SQL query simplification. [__`SQLess`__]
-- [ICST '24](https://ieeexplore.ieee.org/document/10638597)Differential optimization testing of gremlin-based graph database systems.
-- [Journal of Systems and Software ‘24(CCF B)(https://www.sciencedirect.com/science/article/pii/S0164121223002674)Database management system performance comparisons: a systematic literature review.
-- [USENIX ATC '24](https://www.usenix.org/conference/usenixsecurity24/presentation/yang-yupeng)Towards Generic Database Management System Fuzzing.
-- [COMPSAC '24](https://ieeexplore.ieee.org/abstract/document/10633453)SQLPass: A Semantic Effective Fuzzing Method for DBMS. [  **`SQLPass`**  ]
-- [ICSE '24](https://dl.acm.org/doi/abs/10.1145/3597503.3639210)Sedar: Obtaining High-Quality Seeds for DBMS Fuzzing via Cross-DBMS SQL Transfer. [  **`Sedar`**  ]
-- [FSE '24](https://dl.acm.org/doi/abs/10.1145/3663529.3663784)When Fuzzing Meets LLMs: Challenges and Opportunities.
+### TDSC
 - [TDSC '24](https://ieeexplore.ieee.org/abstract/document/10812868)Improving Multitasking DBMS Fuzzing With More Accurate Coverage and Testcase Trimming. [  **`Tuzz`**  ]
-- [SIGMOD '24](https://dl.acm.org/doi/abs/10.1145/3654991)Keep It Simple: Testing Databases via Differential Query Plans. [  **`DQP`**  ]
-- [SIGMOD '24](https://dl.acm.org/doi/abs/10.1145/3698810)Finding Logic Bugs in Spatial Database Engines via Affine Equivalent Inputs. [  **`Spatter`**  ]
+### ICST
+- [ICST '24](https://ieeexplore.ieee.org/document/10638597)Differential optimization testing of gremlin-based graph database systems.
+### ATC
+- [USENIX ATC '24](https://www.usenix.org/conference/usenixsecurity24/presentation/yang-yupeng)Towards Generic Database Management System Fuzzing.
 - [ATC '24](https://www.usenix.org/conference/atc24/presentation/liang)WingFuzz: Implementing Continuous Fuzzing for DBMSs. [**`WingFuzz`**]
-- [ICSE '24](https://dl.acm.org/doi/abs/10.1145/3597503.3639207)Understanding Transaction Bugs in Database Systems.
-- [ICSE '24](https://dl.acm.org/doi/abs/10.1145/3597503.3639200)Testing Graph Database Systems via Equivalent Query Rewriting. 
+### OTHERS
+- [OSDI '24](https://www.usenix.org/conference/osdi24/presentation/jiang)Detecting logic bugs in database engines via equivalent expression transformation. [  **`EET`**  ]
+- [Journal of Systems and Software ‘24(CCF B)(https://www.sciencedirect.com/science/article/pii/S0164121223002674)Database management system performance comparisons: a systematic literature review.
+- [COMPSAC '24](https://ieeexplore.ieee.org/abstract/document/10633453)SQLPass: A Semantic Effective Fuzzing Method for DBMS. [  **`SQLPass`**  ]
+- [FSE '24](https://dl.acm.org/doi/abs/10.1145/3663529.3663784)When Fuzzing Meets LLMs: Challenges and Opportunities.
 
 ## 2023
 
@@ -110,16 +115,16 @@ A compilation of classic articles in the field of database management system (DB
 
 ## 2015
 
-- [/](https://github.com/anse1/sqlsmith)A random SQL query generator. [  **`SQLsmith`**  ]
+- [A random SQL query generator.](https://github.com/anse1/sqlsmith)A random SQL query generator. [  **`SQLsmith`**  ]
 
 ## 2010
-
-- [ASE ‘10](https://dl.acm.org/doi/10.1145/1858996.1859063)Automated SQL query generation for systematic testing of database engines. [  **`ADUSA`**  ]
+### ASE
+- [Automated SQL query generation for systematic testing of database engines.](https://dl.acm.org/doi/10.1145/1858996.1859063) [  **`ADUSA`**  ]
 
 ## 2007
-
-- [VLDB '07](https://www.vldb.org/conf/2007/papers/industrial/p1243-bati.pdf)A genetic approach for random testing of database systems. [  **`GARan`**  ]
+### VLDB
+- [A genetic approach for random testing of database systems.](https://www.vldb.org/conf/2007/papers/industrial/p1243-bati.pdf) [  **`GARan`**  ]
 
 ## 1998
-
-- [VLDB 1998](https://www.vldb.org/conf/1998/p618.pdf)Massive Stochastic Testing of SQL. [**`RAGS`**]
+### VLDB
+- [Massive Stochastic Testing of SQL.](https://www.vldb.org/conf/1998/p618.pdf) [**`RAGS`**]
