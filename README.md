@@ -34,8 +34,7 @@ A compilation of classic articles in the field of database management system (DB
 ## 2024
 ### SIGMOD
 - [Correlation joins over time series data streams utilizing complementary dimension reduction and transformation.](https://dl.acm.org/doi/10.1145/3626722)
-- [Keep It Simple: Testing Databases via Differential Query Plans](链接15). [**`DQP`**]
-- [SIGMOD '24](https://dl.acm.org/doi/abs/10.1145/3654991)Keep It Simple: Testing Databases via Differential Query Plans. [  **`DQP`**  ]
+- [Keep It Simple: Testing Databases via Differential Query Plans](https://dl.acm.org/doi/abs/10.1145/3654991). [**`DQP`**]
 - [SIGMOD '24](https://dl.acm.org/doi/abs/10.1145/3698810)Finding Logic Bugs in Spatial Database Engines via Affine Equivalent Inputs. [  **`Spatter`**  ]
 ### VLDB
 - [VLDB Endowment'24](https://dl.acm.org/doi/10.14778/3659437.3659445)Detecting metadata-related logic bugs in database systems via raw database construction.
@@ -67,48 +66,21 @@ A compilation of classic articles in the field of database management system (DB
 ### SIGMOD
 - [Detecting Logic Bugs of Join Optimizations in DBMS](https://dl.acm.org/doi/10.1145/3588909). [**`TQS`**]
 - [DBPA: a benchmark for transactional database performance anomalies](https://dl.acm.org/doi/10.1145/3588926). [**`DBPA`**]
-
 ### ICDE
-- [Sequence-Oriented DBMS Fuzzing](https://ieeexplore.ieee.org/document/10184875).
-- [Sequence-Oriented DBMS Fuzzing](https://ieeexplore.ieee.org/abstract/document/10184875). [**`Lego`**]
-
+- [Sequence-Oriented DBMS Fuzzing](https://ieeexplore.ieee.org/document/10184875). [**`Lego`**]
 ### ICSE
 - [Testing database systems via differential query execution](https://dl.acm.org/doi/10.1109/ICSE48619.2023.00175). [**`DQE`**]
 - [Detecting isolation bugs via transaction oracle construction](https://ieeexplore.ieee.org/document/10172773). [**`GDBMeter`**]
 - [Coverage guided fault injection for cloud systems](https://ieeexplore.ieee.org/document/10172878).
 - [Randomized differential testing of RDF stores](https://ieeexplore.ieee.org/document/10172822).
 - [Testing Database Engines via Query Plan Guidance](https://ieeexplore.ieee.org/abstract/document/10172874). [**`QPG`**]
-
 ### ISSTA
 - [Testing graph database engines via query partitioning](https://dl.acm.org/doi/10.1145/3597926.3598044).
 - [GDsmith: Detecting Bugs in Cypher Graph Database Engines](https://dl.acm.org/doi/abs/10.1145/3597926.3598046). [**`GDsmith`**]
-
 ### EuroSys
 - [Model checking guided testing for distributed systems](https://dl.acm.org/doi/10.1145/3552326.3587442).
-
 ### ATC
 - [Pinolo: detecting logical bugs in database management systems with approximate query synthesis](https://www.usenix.org/conference/atc23/presentation/hao). [**`Pinolo`**]
-
-
-## 2023
-### SIGMOD
-- [SIGMOD '23](https://dl.acm.org/doi/10.1145/3588909)Detecting Logic Bugs of Join Optimizations in DBMS. [__`TQS`__]
-- [SIGMOD '23](https://dl.acm.org/doi/10.1145/3588926)DBPA: a benchmark for transactional database performance anomalies. [**`DBPA`**]
-### ICDE
-- [ICDE '23](https://ieeexplore.ieee.org/document/10184875)Sequence-Oriented DBMS Fuzzing.
-### ICSE
-- [ICSE '23](https://dl.acm.org/doi/10.1109/ICSE48619.2023.00175)Testing database systems via differential query execution [__`DQE`__]
-- [ICSE '23](https://ieeexplore.ieee.org/document/10172773)Detecting isolation bugs via transaction oracle construction [__`GDBMeter`__]
-- [ICSE '23](https://ieeexplore.ieee.org/document/10172878)Coverage guided fault injection for cloud systems.
-- [ICSE '23](https://ieeexplore.ieee.org/document/10172822)Randomized differential testing of RDF stores.
-- [ICSE '23](https://ieeexplore.ieee.org/abstract/document/10172874)Testing Database Engines via Query Plan Guidance. [  **`QPG`**  ]
-### ISSTA
-- [ISSTA '23](https://dl.acm.org/doi/10.1145/3597926.3598044)Testing graph database engines via query partitioning.
-- [ISSTA '23](https://dl.acm.org/doi/abs/10.1145/3597926.3598046)GDsmith: Detecting Bugs in Cypher Graph Database Engines. [  **`GDsmith`**  ]
-### EuroSys
-- [EuroSys '23](https://dl.acm.org/doi/10.1145/3552326.3587442)Model checking guided testing for distributed systems.
-### ATC
-- [ATC '23](https://www.usenix.org/conference/atc23/presentation/hao)Pinolo: detecting logical bugs in database management systems with approximate query synthesis. [__`Pinolo`__]
 ### OTHERS
 - [arXiv23](http://arxiv.org/abs/2311.06728)A Comprehensive Survey on Database Management System Fuzzing: Techniques, Taxonomy and Experimental Comparison.
 - [SEC '23](https://www.usenix.org/conference/usenixsecurity23/presentation/jiang-zu-ming)DynSQL: Stateful Fuzzing for Database Management Systems with Complex and Valid {SQL} Query Generation. [__`DynSQL`__]
