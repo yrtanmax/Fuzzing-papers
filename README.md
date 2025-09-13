@@ -33,7 +33,8 @@ A compilation of classic articles in the field of database management system (DB
 
 ## 2024
 ### SIGMOD
-- [SIGMOD '24](https://dl.acm.org/doi/10.1145/3626722)Correlation joins over time series data streams utilizing complementary dimension reduction and transformation.
+- [Correlation joins over time series data streams utilizing complementary dimension reduction and transformation.](https://dl.acm.org/doi/10.1145/3626722)
+- [Keep It Simple: Testing Databases via Differential Query Plans](链接15). [**`DQP`**]
 - [SIGMOD '24](https://dl.acm.org/doi/abs/10.1145/3654991)Keep It Simple: Testing Databases via Differential Query Plans. [  **`DQP`**  ]
 - [SIGMOD '24](https://dl.acm.org/doi/abs/10.1145/3698810)Finding Logic Bugs in Spatial Database Engines via Affine Equivalent Inputs. [  **`Spatter`**  ]
 ### VLDB
@@ -91,35 +92,35 @@ A compilation of classic articles in the field of database management system (DB
 
 ## 2022
 ### ASE
-- [ASE '22](https://dl.acm.org/doi/10.1145/3551349.3560431)Griffin : Grammar-Free DBMS Fuzzing. [__`Griffin`__]
-- [ASE '22](https://dl.acm.org/doi/10.1145/3551349.3556924)Differentially Testing Database Transactions for Fun and Profit. [__`DT2`__]
+- [Griffin : Grammar-Free DBMS Fuzzing.](https://dl.acm.org/doi/10.1145/3551349.3560431) [__`Griffin`__]
+- [Differentially Testing Database Transactions for Fun and Profit.](https://dl.acm.org/doi/10.1145/3551349.3556924) [__`DT2`__]
 ### ICSE
-- [ICSE '22](https://ieeexplore.ieee.org/document/9793961)Automatic detection of performance bugs in database systems using equivalent queries. [**`AMOEBA`**]
+- [Automatic detection of performance bugs in database systems using equivalent queries.](https://ieeexplore.ieee.org/document/9793961) [**`AMOEBA`**]
 ### ISSTA
-- [ISSTA '22](https://dl.acm.org/doi/10.1145/3533767.3534364)Unicorn: detect runtime errors in time-series databases with hybrid input synthesis. [**`Unicorn`**]
-- [ISSTA '22](https://dl.acm.org/doi/10.1145/3533767.3534409)Finding bugs in gremlin-based graph database systems via randomized differential testing.
+- [Unicorn: detect runtime errors in time-series databases with hybrid input synthesis.](https://dl.acm.org/doi/10.1145/3533767.3534364) [**`Unicorn`**]
+- [Finding bugs in gremlin-based graph database systems via randomized differential testing.](https://dl.acm.org/doi/10.1145/3533767.3534409)
  ### USENIX Security
-- [USENIX Security '22](https://www.usenix.org/conference/usenixsecurity22/presentation/liang)Detecting logical bugs of DBMS with coverage-based guidance.
+- [Detecting logical bugs of DBMS with coverage-based guidance.](https://www.usenix.org/conference/usenixsecurity22/presentation/liang)
 
 ## 2021
-- [Bench '20](http://link.springer.com/10.1007/978-3-030-71058-3_5)Artemis: An Automatic Test Suite Generator for Large Scale OLAP Database. [__`Artemis`__]
-- [arXiv '21](https://arxiv.org/abs/2107.03660)Duplicate-sensitivity Guided Transformation Synthesis for DBMS Correctness Bug Detection. [  **`Eqsql`**  ]
+- [[Bench '20](http://link.springer.com/10.1007/978-3-030-71058-3_5)] Artemis: An Automatic Test Suite Generator for Large Scale OLAP Database. [__`Artemis`__]
+- [[arXiv '21](https://arxiv.org/abs/2107.03660)] Duplicate-sensitivity Guided Transformation Synthesis for DBMS Correctness Bug Detection. [  **`Eqsql`**  ]
 
 ## 2020
 
-- [OSDI'20](https://arxiv.org/abs/2001.04174)Testing database engines via pivoted query synthesis. [__`PQS`__]
-- [ESEC/FSE '20](https://dl.acm.org/doi/10.1145/3368089.3409710)Detecting Optimization Bugs in Database Engines via Non-optimizing Reference Engine Construction. [**`NoREC`**]
-- [CCS '20](https://dl.acm.org/doi/10.1145/3372297.3417260)SQUIRREL: Testing Database Management Systems with Language Validity and Coverage Feedback. [__`SQUIRREL`__]
-- [OOPSLA '20](https://dl.acm.org/doi/10.1145/3428279)Finding Bugs in Database Systems via Query Partitioning. [**`TLP`**]
-- [WOOT '20](https://www.usenix.org/conference/woot20/presentation/fioraldi){AFL++} : combining incremental steps of fuzzing research. [__**`afl++`**__]
-- [DBTest '20](https://dl.acm.org/doi/abs/10.1145/3395032.3395322)Testing query execution engines with mutations. [  **`MutaSQL`**  ]
+- [[OSDI'20](https://arxiv.org/abs/2001.04174)] Testing database engines via pivoted query synthesis. [__`PQS`__]
+- [[ESEC/FSE '20](https://dl.acm.org/doi/10.1145/3368089.3409710)] Detecting Optimization Bugs in Database Engines via Non-optimizing Reference Engine Construction. [**`NoREC`**]
+- [[CCS '20](https://dl.acm.org/doi/10.1145/3372297.3417260)] SQUIRREL: Testing Database Management Systems with Language Validity and Coverage Feedback. [__`SQUIRREL`__]
+- [[OOPSLA '20](https://dl.acm.org/doi/10.1145/3428279)] Finding Bugs in Database Systems via Query Partitioning. [**`TLP`**]
+- [[WOOT '20](https://www.usenix.org/conference/woot20/presentation/fioraldi)] {AFL++} : combining incremental steps of fuzzing research. [__**`afl++`**__]
+- [[DBTest '20](https://dl.acm.org/doi/abs/10.1145/3395032.3395322)] Testing query execution engines with mutations. [  **`MutaSQL`**  ]
 
 ## 2019
-
-- [VLDB '19](https://dl.acm.org/doi/10.14778/3357377.3357382)APOLLO: automatic detection and diagnosis of performance regressions in database systems. [__`APOLLO`__]
+### VLDB
+- [APOLLO: automatic detection and diagnosis of performance regressions in database systems.](https://dl.acm.org/doi/10.14778/3357377.3357382) [__`APOLLO`__]
 
 ## 2015
-
+### GITHUB
 - [A random SQL query generator.](https://github.com/anse1/sqlsmith)A random SQL query generator. [  **`SQLsmith`**  ]
 
 ## 2010
