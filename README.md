@@ -54,55 +54,60 @@ A compilation of classic articles in the field of database management system (DB
 ### ICST
 - [ICST '24](https://ieeexplore.ieee.org/document/10638597)Differential optimization testing of gremlin-based graph database systems.
 ### ATC
-- [USENIX ATC '24](https://www.usenix.org/conference/usenixsecurity24/presentation/yang-yupeng)Towards Generic Database Management System Fuzzing.
+- [ATC '24](https://www.usenix.org/conference/usenixsecurity24/presentation/yang-yupeng)Towards Generic Database Management System Fuzzing.
 - [ATC '24](https://www.usenix.org/conference/atc24/presentation/liang)WingFuzz: Implementing Continuous Fuzzing for DBMSs. [**`WingFuzz`**]
 ### OTHERS
 - [OSDI '24](https://www.usenix.org/conference/osdi24/presentation/jiang)Detecting logic bugs in database engines via equivalent expression transformation. [  **`EET`**  ]
-- [Journal of Systems and Software ‘24(CCF B)(https://www.sciencedirect.com/science/article/pii/S0164121223002674)Database management system performance comparisons: a systematic literature review.
+- [Journal of Systems and Software ‘24(CCF B)](https://www.sciencedirect.com/science/article/pii/S0164121223002674)Database management system performance comparisons: a systematic literature review.
 - [COMPSAC '24](https://ieeexplore.ieee.org/abstract/document/10633453)SQLPass: A Semantic Effective Fuzzing Method for DBMS. [  **`SQLPass`**  ]
 - [FSE '24](https://dl.acm.org/doi/abs/10.1145/3663529.3663784)When Fuzzing Meets LLMs: Challenges and Opportunities.
 
 ## 2023
-
-- [arXiv23](http://arxiv.org/abs/2311.06728)A Comprehensive Survey on Database Management System Fuzzing: Techniques, Taxonomy and Experimental Comparison.
-
+### SIGMOD
 - [SIGMOD '23](https://dl.acm.org/doi/10.1145/3588909)Detecting Logic Bugs of Join Optimizations in DBMS. [__`TQS`__]
 - [SIGMOD '23](https://dl.acm.org/doi/10.1145/3588926)DBPA: a benchmark for transactional database performance anomalies. [**`DBPA`**]
-- [SEC '23](https://www.usenix.org/conference/usenixsecurity23/presentation/jiang-zu-ming)DynSQL: Stateful Fuzzing for Database Management Systems with Complex and Valid {SQL} Query Generation. [__`DynSQL`__]
+### ICDE
 - [ICDE '23](https://ieeexplore.ieee.org/document/10184875)Sequence-Oriented DBMS Fuzzing.
+- [ICDE '23](https://ieeexplore.ieee.org/abstract/document/10184875)Sequence-Oriented DBMS Fuzzing. [  **`Lego`**  ]
+### ICSE
 - [ICSE '23](https://dl.acm.org/doi/10.1109/ICSE48619.2023.00175)Testing database systems via differential query execution [__`DQE`__]
 - [ICSE '23](https://ieeexplore.ieee.org/document/10172773)Detecting isolation bugs via transaction oracle construction [__`GDBMeter`__]
 - [ICSE '23](https://ieeexplore.ieee.org/document/10172878)Coverage guided fault injection for cloud systems.
-- [ICSE-Companion '23](https://ieeexplore.ieee.org/document/10172822)Randomized differential testing of RDF stores.
-- [EuroSys '23](https://dl.acm.org/doi/10.1145/3552326.3587442)Model checking guided testing for distributed systems.
-- [USENIX ATC '23](https://www.usenix.org/conference/atc23/presentation/hao)Pinolo: detecting logical bugs in database management systems with approximate query synthesis. [__`Pinolo`__]
-- [OSDI '23](https://www.usenix.org/conference/osdi23/presentation/jiang)Detecting transactional bugs in database engines via {graph-based} oracle construction.
-- [ISSTA '23](https://dl.acm.org/doi/10.1145/3597926.3598044)Testing graph database engines via query partitioning.
-- [MDPI '23](https://www.mdpi.com/2076-3417/13/4/2519)Squill: Testing DBMS with Correctness Feedback and Accurate Instantiation. [  **`Squill`**  ]
-- [ICDE '23](https://ieeexplore.ieee.org/abstract/document/10184875)Sequence-Oriented DBMS Fuzzing. [  **`Lego`**  ]
+- [ICSE '23](https://ieeexplore.ieee.org/document/10172822)Randomized differential testing of RDF stores.
 - [ICSE '23](https://ieeexplore.ieee.org/abstract/document/10172874)Testing Database Engines via Query Plan Guidance. [  **`QPG`**  ]
-- [/](https://github.com/pingcap/go-randgen)a QA tool to random generate sql by bnf pattern. [  **`Go-Randgen`**  ]
+### ISSTA
+- [ISSTA '23](https://dl.acm.org/doi/10.1145/3597926.3598044)Testing graph database engines via query partitioning.
 - [ISSTA '23](https://dl.acm.org/doi/abs/10.1145/3597926.3598046)GDsmith: Detecting Bugs in Cypher Graph Database Engines. [  **`GDsmith`**  ]
+### EuroSys
+- [EuroSys '23](https://dl.acm.org/doi/10.1145/3552326.3587442)Model checking guided testing for distributed systems.
+### ATC
+- [ATC '23](https://www.usenix.org/conference/atc23/presentation/hao)Pinolo: detecting logical bugs in database management systems with approximate query synthesis. [__`Pinolo`__]
+### OTHERS
+- [arXiv23](http://arxiv.org/abs/2311.06728)A Comprehensive Survey on Database Management System Fuzzing: Techniques, Taxonomy and Experimental Comparison.
+- [SEC '23](https://www.usenix.org/conference/usenixsecurity23/presentation/jiang-zu-ming)DynSQL: Stateful Fuzzing for Database Management Systems with Complex and Valid {SQL} Query Generation. [__`DynSQL`__]
+- [OSDI '23](https://www.usenix.org/conference/osdi23/presentation/jiang)Detecting transactional bugs in database engines via {graph-based} oracle construction.
+- [MDPI '23](https://www.mdpi.com/2076-3417/13/4/2519)Squill: Testing DBMS with Correctness Feedback and Accurate Instantiation. [  **`Squill`**  ]
+- [GITHUB](https://github.com/pingcap/go-randgen) a QA tool to random generate sql by bnf pattern. [  **`Go-Randgen`**  ]
 
 ## 2022
-
+### ASE
 - [ASE '22](https://dl.acm.org/doi/10.1145/3551349.3560431)Griffin : Grammar-Free DBMS Fuzzing. [__`Griffin`__]
-
 - [ASE '22](https://dl.acm.org/doi/10.1145/3551349.3556924)Differentially Testing Database Transactions for Fun and Profit. [__`DT2`__]
-- [USENIX Security '22](https://www.usenix.org/conference/usenixsecurity22/presentation/liang)Detecting logical bugs of DBMS with coverage-based guidance.
+### ICSE
+- [ICSE '22](https://ieeexplore.ieee.org/document/9793961)Automatic detection of performance bugs in database systems using equivalent queries. [**`AMOEBA`**]
+### ISSTA
 - [ISSTA '22](https://dl.acm.org/doi/10.1145/3533767.3534364)Unicorn: detect runtime errors in time-series databases with hybrid input synthesis. [**`Unicorn`**]
 - [ISSTA '22](https://dl.acm.org/doi/10.1145/3533767.3534409)Finding bugs in gremlin-based graph database systems via randomized differential testing.
-- [ICSE '22](https://ieeexplore.ieee.org/document/9793961)Automatic detection of performance bugs in database systems using equivalent queries. [**`AMOEBA`**]
+ ### USENIX Security
+- [USENIX Security '22](https://www.usenix.org/conference/usenixsecurity22/presentation/liang)Detecting logical bugs of DBMS with coverage-based guidance.
 
 ## 2021
-
 - [Bench '20](http://link.springer.com/10.1007/978-3-030-71058-3_5)Artemis: An Automatic Test Suite Generator for Large Scale OLAP Database. [__`Artemis`__]
 - [arXiv '21](https://arxiv.org/abs/2107.03660)Duplicate-sensitivity Guided Transformation Synthesis for DBMS Correctness Bug Detection. [  **`Eqsql`**  ]
 
 ## 2020
 
 - [OSDI'20](https://arxiv.org/abs/2001.04174)Testing database engines via pivoted query synthesis. [__`PQS`__]
-
 - [ESEC/FSE '20](https://dl.acm.org/doi/10.1145/3368089.3409710)Detecting Optimization Bugs in Database Engines via Non-optimizing Reference Engine Construction. [**`NoREC`**]
 - [CCS '20](https://dl.acm.org/doi/10.1145/3372297.3417260)SQUIRREL: Testing Database Management Systems with Language Validity and Coverage Feedback. [__`SQUIRREL`__]
 - [OOPSLA '20](https://dl.acm.org/doi/10.1145/3428279)Finding Bugs in Database Systems via Query Partitioning. [**`TLP`**]
