@@ -11,8 +11,8 @@ A compilation of classic articles in the field of database management system (DB
 **`cov.`** : Coverage-guided testing &emsp; | &emsp; **`optim.`** : join optimization &emsp; | &emsp; **`trans.`** : transaction bugs
  
 ## 2025
-
-- [[SIGMOD '25](https://dl.acm.org/doi/10.1145/3698829)] Understanding and reusing test suites across database systems.
+### SIGMOD
+- [Understanding and reusing test suites across database systems.](https://dl.acm.org/doi/10.1145/3698829)
 
 - [[SIGMOD '25](https://dl.acm.org/doi/10.1145/3698810)] Finding logic bugs in spatial database engines via affine equivalent inputs.
 - [[SIGMOD '25](https://dl.acm.org/doi/10.1145/3709674)] Constant optimization driven database system testing. [__`CODD`__]
