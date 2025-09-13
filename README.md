@@ -21,6 +21,7 @@ A compilation of classic articles in the field of database management system (DB
 - [[EuroSys '25](https://dl.acm.org/doi/10.1145/3689031.3696064)] Understanding and detecting SQL function bugs: using simple boundary arguments to trigger hundreds of DBMS bugs.
 - [[arXiv25](http://arxiv.org/abs/2505.02012)] Testing database systems with large language model synthesized fragments. [**`ShQveL`**]
 - [[ICSE '25](https://ieeexplore.ieee.org/document/11029960)] PUPPY: finding performance degradation bugs in DBMSs via limited-optimization plan construction. [**`PUPPY`**] [**`perf.`**]
+- [[ICSE '25](https://dl.acm.org/doi/10.1109/ICSE55347.2025.00003)] Coni: Detecting Database Connector Bugs via State-Aware Test Case Generation. [**`Coni`**]
 - [[ISSTA '25](https://dl.acm.org/doi/10.1145/3728908)] QTRAN: extending metamorphic-oracle based logical bug detection techniques for multiple-DBMS dialect support. [__`Qtran`__]
 - [[arXiv25](http://arxiv.org/abs/2501.01236)] Enhanced Differential Testing in Emerging Database Systems. [__`SQLxDiff`__]
 - [[arXiv25](https://arxiv.org/abs/2503.21424)] Scaling Automated Database System Testing. [  **`SQLancer++`**  ]
