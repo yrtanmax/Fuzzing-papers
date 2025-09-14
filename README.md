@@ -57,10 +57,10 @@ A compilation of classic articles in the field of database management system (DB
 - [Towards Generic Database Management System Fuzzing.](https://www.usenix.org/conference/usenixsecurity24/presentation/yang-yupeng)
 - [WingFuzz: Implementing Continuous Fuzzing for DBMSs.](https://www.usenix.org/conference/atc24/presentation/liang) [**`WingFuzz`**]
 ### OTHERS
-- [[OSDI '24](https://www.usenix.org/conference/osdi24/presentation/jiang)] Detecting logic bugs in database engines via equivalent expression transformation. [  **`EET`**  ]
-- [[Journal of Systems and Software ‘24(CCF B)](https://www.sciencedirect.com/science/article/pii/S0164121223002674)] Database management system performance comparisons: a systematic literature review.
-- [[COMPSAC '24](https://ieeexplore.ieee.org/abstract/document/10633453)] SQLPass: A Semantic Effective Fuzzing Method for DBMS. [  **`SQLPass`**  ]
-- [[FSE '24](https://dl.acm.org/doi/abs/10.1145/3663529.3663784)] When Fuzzing Meets LLMs: Challenges and Opportunities.
+- [OSDI '24] [Detecting logic bugs in database engines via equivalent expression transformation.](https://www.usenix.org/conference/osdi24/presentation/jiang) [  **`EET`**  ]
+- [Journal of Systems and Software ‘24(CCF B)] [Database management system performance comparisons: a systematic literature review.](https://www.sciencedirect.com/science/article/pii/S0164121223002674)
+- [COMPSAC '24] [SQLPass: A Semantic Effective Fuzzing Method for DBMS.](https://ieeexplore.ieee.org/abstract/document/10633453) [  **`SQLPass`**  ]
+- [FSE '24] [When Fuzzing Meets LLMs: Challenges and Opportunities.](https://dl.acm.org/doi/abs/10.1145/3663529.3663784)
 
 ## 2023
 ### SIGMOD
@@ -82,11 +82,11 @@ A compilation of classic articles in the field of database management system (DB
 ### ATC
 - [Pinolo: detecting logical bugs in database management systems with approximate query synthesis](https://www.usenix.org/conference/atc23/presentation/hao). [**`Pinolo`**]
 ### OTHERS
-- [[arXiv23](http://arxiv.org/abs/2311.06728)] A Comprehensive Survey on Database Management System Fuzzing: Techniques, Taxonomy and Experimental Comparison.
-- [[SEC '23](https://www.usenix.org/conference/usenixsecurity23/presentation/jiang-zu-ming)] DynSQL: Stateful Fuzzing for Database Management Systems with Complex and Valid {SQL} Query Generation. [__`DynSQL`__]
-- [[OSDI '23](https://www.usenix.org/conference/osdi23/presentation/jiang)] Detecting transactional bugs in database engines via {graph-based} oracle construction.
-- [[MDPI '23](https://www.mdpi.com/2076-3417/13/4/2519)] Squill: Testing DBMS with Correctness Feedback and Accurate Instantiation. [  **`Squill`**  ]
-- [[GITHUB](https://github.com/pingcap/go-randgen)] a QA tool to random generate sql by bnf pattern. [  **`Go-Randgen`**  ]
+- [arXiv23] [A Comprehensive Survey on Database Management System Fuzzing: Techniques, Taxonomy and Experimental Comparison.](http://arxiv.org/abs/2311.06728)
+- [SEC '23] [DynSQL: Stateful Fuzzing for Database Management Systems with Complex and Valid {SQL} Query Generation.](https://www.usenix.org/conference/usenixsecurity23/presentation/jiang-zu-ming) [__`DynSQL`__]
+- [OSDI '23] [Detecting transactional bugs in database engines via {graph-based} oracle construction.](https://www.usenix.org/conference/osdi23/presentation/jiang)
+- [MDPI '23] [Squill: Testing DBMS with Correctness Feedback and Accurate Instantiation.](https://www.mdpi.com/2076-3417/13/4/2519) [  **`Squill`**  ]
+- [GITHUB] [a QA tool to random generate sql by bnf pattern.](https://github.com/pingcap/go-randgen) [  **`Go-Randgen`**  ]
 
 ## 2022
 ### ASE
@@ -101,17 +101,17 @@ A compilation of classic articles in the field of database management system (DB
 - [Detecting logical bugs of DBMS with coverage-based guidance.](https://www.usenix.org/conference/usenixsecurity22/presentation/liang)
 
 ## 2021
-- [[Bench '20](http://link.springer.com/10.1007/978-3-030-71058-3_5)] Artemis: An Automatic Test Suite Generator for Large Scale OLAP Database. [__`Artemis`__]
-- [[arXiv '21](https://arxiv.org/abs/2107.03660)] Duplicate-sensitivity Guided Transformation Synthesis for DBMS Correctness Bug Detection. [  **`Eqsql`**  ]
+- [Bench '20] [Artemis: An Automatic Test Suite Generator for Large Scale OLAP Database.](http://link.springer.com/10.1007/978-3-030-71058-3_5) [__`Artemis`__]
+- [arXiv '21] [Duplicate-sensitivity Guided Transformation Synthesis for DBMS Correctness Bug Detection.](https://arxiv.org/abs/2107.03660) [  **`Eqsql`**  ]
 
 ## 2020
 
-- [[OSDI'20](https://arxiv.org/abs/2001.04174)] Testing database engines via pivoted query synthesis. [__`PQS`__]
-- [[ESEC/FSE '20](https://dl.acm.org/doi/10.1145/3368089.3409710)] Detecting Optimization Bugs in Database Engines via Non-optimizing Reference Engine Construction. [**`NoREC`**]
-- [[CCS '20](https://dl.acm.org/doi/10.1145/3372297.3417260)] SQUIRREL: Testing Database Management Systems with Language Validity and Coverage Feedback. [__`SQUIRREL`__]
-- [[OOPSLA '20](https://dl.acm.org/doi/10.1145/3428279)] Finding Bugs in Database Systems via Query Partitioning. [**`TLP`**]
-- [[WOOT '20](https://www.usenix.org/conference/woot20/presentation/fioraldi)] {AFL++} : combining incremental steps of fuzzing research. [__**`afl++`**__]
-- [[DBTest '20](https://dl.acm.org/doi/abs/10.1145/3395032.3395322)] Testing query execution engines with mutations. [  **`MutaSQL`**  ]
+- [OSDI'20] [Testing database engines via pivoted query synthesis.](https://arxiv.org/abs/2001.04174) [__`PQS`__]
+- [ESEC/FSE '20] [Detecting Optimization Bugs in Database Engines via Non-optimizing Reference Engine Construction.](https://dl.acm.org/doi/10.1145/3368089.3409710) [**`NoREC`**]
+- [CCS '20] [SQUIRREL: Testing Database Management Systems with Language Validity and Coverage Feedback.](https://dl.acm.org/doi/10.1145/3372297.3417260) [__`SQUIRREL`__]
+- [OOPSLA '20] [Finding Bugs in Database Systems via Query Partitioning.](https://dl.acm.org/doi/10.1145/3428279) [**`TLP`**]
+- [WOOT '20] [AFL++: combining incremental steps of fuzzing research.](https://www.usenix.org/conference/woot20/presentation/fioraldi) [__**`afl++`**__]
+- [DBTest '20] [Testing query execution engines with mutations.](https://dl.acm.org/doi/abs/10.1145/3395032.3395322) [  **`MutaSQL`**  ]
 
 ## 2019
 ### VLDB
