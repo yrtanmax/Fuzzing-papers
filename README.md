@@ -53,8 +53,9 @@ A compilation of classic articles in the field of database management system (DB
 - [Improving Multitasking DBMS Fuzzing With More Accurate Coverage and Testcase Trimming.](https://ieeexplore.ieee.org/abstract/document/10812868) [  **`Tuzz`**  ]
 ### ICST
 - [Differential optimization testing of gremlin-based graph database systems.](https://ieeexplore.ieee.org/document/10638597)
-### ATC
+### USENIX Security
 - [Towards Generic Database Management System Fuzzing.](https://www.usenix.org/conference/usenixsecurity24/presentation/yang-yupeng)
+### ATC
 - [WingFuzz: Implementing Continuous Fuzzing for DBMSs.](https://www.usenix.org/conference/atc24/presentation/liang) [**`WingFuzz`**]
 ### OTHERS
 - [OSDI '24] [Detecting logic bugs in database engines via equivalent expression transformation.](https://www.usenix.org/conference/osdi24/presentation/jiang) [  **`EET`**  ]
