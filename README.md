@@ -17,6 +17,8 @@ A compilation of classic articles in the field of database management system (DB
 - [Constant optimization driven database system testing.](https://dl.acm.org/doi/10.1145/3709674) [__`CODD`__]
 ### VLDB
 - [Fucci: Database Transaction Fuzzing via Random Conflict Construction and Multilevel Constraint Solving.](https://www.vldb.org/pvldb/vol18/p1879-li.pdf) [__`Fucci`__]
+- [Detecting Schema-Related Logic Bugs in Relational DBMSs via Equivalent Database Construction.](https://dl.acm.org/doi/10.14778/3734839.3734861)
+- [Simple Testing Can Expose Most Critical Transaction Bugs: Understanding and Detecting Write-Specific Serializability Violations in Database Systems](https://dl.acm.org/doi/10.14778/3742728.3742747)
 ### TDSC
 - [Improving multitasking DBMS fuzzing with more accurate coverage and testcase trimming.](https://ieeexplore.ieee.org/document/10812868)
 ### EuroSys
@@ -26,10 +28,16 @@ A compilation of classic articles in the field of database management system (DB
 - [Coni: Detecting Database Connector Bugs via State-Aware Test Case Generation.](https://dl.acm.org/doi/10.1109/ICSE55347.2025.00003) [**`Coni`**]
 ### ISSTA
 - [QTRAN: extending metamorphic-oracle based logical bug detection techniques for multiple-DBMS dialect support.](https://dl.acm.org/doi/10.1145/3728908) [__`Qtran`__]
+- [Detecting Isolation Anomalies in Relational DBMSs](https://dl.acm.org/doi/abs/10.1145/3728953)
+### ATC
+- [DDLumos: Understanding and Detecting Atomic DDL Bugs in DBMSs](https://www.usenix.org/conference/atc25/presentation/wu-zhiyong)
 ### arXiv25
 - [Enhanced Differential Testing in Emerging Database Systems.](http://arxiv.org/abs/2501.01236) [__`SQLxDiff`__]
 - [Scaling Automated Database System Testing.](https://arxiv.org/abs/2503.21424) [**`SQLancer++`**]
 - [Testing database systems with large language model synthesized fragments.](http://arxiv.org/abs/2505.02012) [**`ShQveL`**]
+- [LLM-based Dynamic Differential Testing for Database Connectors with Reinforcement Learning-Guided Prompt Selection.](https://arxiv.org/abs/2506.11870)
+### OTHER
+- [Sembug: Detecting Logic Bugs in Dbms Through Generating Semantic-Aware Non-Optimizing Query](https://ieeexplore.ieee.org/abstract/document/11025894)
 
 ## 2024
 ### SIGMOD
