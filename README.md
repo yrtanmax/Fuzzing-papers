@@ -129,7 +129,7 @@ A compilation of classic articles in the field of database management system (DB
 
 ## 2015
 ### GITHUB
-- [A random SQL query generator.](https://github.com/anse1/sqlsmith)A random SQL query generator. [  **`SQLsmith`**  ]
+- [A random SQL query generator.](https://github.com/anse1/sqlsmith) [  **`SQLsmith`**  ]
 
 ## 2010
 ### ASE
