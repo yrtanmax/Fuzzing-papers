@@ -13,7 +13,6 @@ A compilation of classic articles in the field of database management system (DB
 ## 2025
 ### SIGMOD
 - [Understanding and reusing test suites across database systems.](https://dl.acm.org/doi/10.1145/3698829)
-- [Finding logic bugs in spatial database engines via affine equivalent inputs.](https://dl.acm.org/doi/10.1145/3698810)
 - [Constant optimization driven database system testing.](https://dl.acm.org/doi/10.1145/3709674) [__`CODD`__]
 ### VLDB
 - [Fucci: Database Transaction Fuzzing via Random Conflict Construction and Multilevel Constraint Solving.](https://www.vldb.org/pvldb/vol18/p1879-li.pdf) [__`Fucci`__]
