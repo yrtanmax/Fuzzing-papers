@@ -47,7 +47,6 @@ A compilation of classic articles in the field of database management system (DB
 - [Detecting metadata-related logic bugs in database systems via raw database construction.](https://dl.acm.org/doi/10.14778/3659437.3659445)
 - [Semantic conformance testing of relational DBMS.](https://dl.acm.org/doi/10.14778/3712221.3712247)
 ### ICSE
-- [Understanding transaction bugs in database systems.](https://dl.acm.org/doi/10.1145/3597503.3639207)
 - [CERT: finding performance issues in database systems through the lens of cardinality estimation.](https://dl.acm.org/doi/10.1145/3597503.3639076) [**`CERT`**]
 - [Detecting logic bugs in graph database management systems via injective and surjective graph query transformation.](https://ieeexplore.ieee.org/abstract/document/10548201) [**`GQT`**]
 - [Understanding Transaction Bugs in Database Systems.](https://dl.acm.org/doi/abs/10.1145/3597503.3639207)
