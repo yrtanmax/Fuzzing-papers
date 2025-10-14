@@ -17,7 +17,7 @@ A compilation of classic articles in the field of database management system (DB
 ### VLDB
 - [Fucci: Database Transaction Fuzzing via Random Conflict Construction and Multilevel Constraint Solving.](https://www.vldb.org/pvldb/vol18/p1879-li.pdf) [__`Fucci`__]
 - [Detecting Schema-Related Logic Bugs in Relational DBMSs via Equivalent Database Construction.](https://dl.acm.org/doi/10.14778/3734839.3734861)
-- [Simple Testing Can Expose Most Critical Transaction Bugs: Understanding and Detecting Write-Specific Serializability Violations in Database Systems](https://dl.acm.org/doi/10.14778/3742728.3742747)
+- [Simple Testing Can Expose Most Critical Transaction Bugs: Understanding and Detecting Write-Specific Serializability Violations in Database Systems](https://dl.acm.org/doi/10.14778/3742728.3742747) [**`trans.`**]
 ### TDSC
 - [Improving multitasking DBMS fuzzing with more accurate coverage and testcase trimming.](https://ieeexplore.ieee.org/document/10812868)
 ### EuroSys
