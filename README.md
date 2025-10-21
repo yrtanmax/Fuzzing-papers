@@ -36,7 +36,7 @@ A compilation of classic articles in the field of database management system (DB
 - [Testing database systems with large language model synthesized fragments.](http://arxiv.org/abs/2505.02012) [**`ShQveL`**]
 - [LLM-based Dynamic Differential Testing for Database Connectors with Reinforcement Learning-Guided Prompt Selection.](https://arxiv.org/abs/2506.11870)
 ### OTHER
-- [ICPC '25] [Sembug: Detecting Logic Bugs in Dbms Through Generating Semantic-Aware Non-Optimizing Query](https://ieeexplore.ieee.org/abstract/document/11025894)
+- [ICPC '25] [Sembug: Detecting Logic Bugs in Dbms Through Generating Semantic-Aware Non-Optimizing Query](https://ieeexplore.ieee.org/abstract/document/11025894) [**`CCFB`**] [**`logic`**]
 
 ## 2024
 ### SIGMOD
