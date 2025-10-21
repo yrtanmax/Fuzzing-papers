@@ -36,7 +36,7 @@ A compilation of classic articles in the field of database management system (DB
 - [Testing database systems with large language model synthesized fragments.](http://arxiv.org/abs/2505.02012) [**`ShQveL`**]
 - [LLM-based Dynamic Differential Testing for Database Connectors with Reinforcement Learning-Guided Prompt Selection.](https://arxiv.org/abs/2506.11870)
 ### OTHER
-- [Sembug: Detecting Logic Bugs in Dbms Through Generating Semantic-Aware Non-Optimizing Query](https://ieeexplore.ieee.org/abstract/document/11025894)
+- [ICPC '25] [Sembug: Detecting Logic Bugs in Dbms Through Generating Semantic-Aware Non-Optimizing Query](https://ieeexplore.ieee.org/abstract/document/11025894)
 
 ## 2024
 ### SIGMOD
@@ -114,7 +114,7 @@ A compilation of classic articles in the field of database management system (DB
 
 ## 2020
 
-- [OSDI'20] [Testing database engines via pivoted query synthesis.](https://arxiv.org/abs/2001.04174) [__`PQS`__]
+- [OSDI '20] [Testing database engines via pivoted query synthesis.](https://arxiv.org/abs/2001.04174) [__`PQS`__]
 - [ESEC/FSE '20] [Detecting Optimization Bugs in Database Engines via Non-optimizing Reference Engine Construction.](https://dl.acm.org/doi/10.1145/3368089.3409710) [**`NoREC`**]
 - [CCS '20] [SQUIRREL: Testing Database Management Systems with Language Validity and Coverage Feedback.](https://dl.acm.org/doi/10.1145/3372297.3417260) [__`SQUIRREL`__]
 - [OOPSLA '20] [Finding Bugs in Database Systems via Query Partitioning.](https://dl.acm.org/doi/10.1145/3428279) [**`TLP`**]
